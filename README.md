@@ -13,9 +13,11 @@ A study app for a Network+-based networking course midterm, with a full **exam s
 - Every question is tagged by source (course material, practice question, or generated); progress is saved locally
 
 ## Screenshots
-| Subnet lab: worked solution | Exam simulation |
-|---|---|
-| ![Subnet lab](docs/lab.png) | ![Exam](docs/exam.png) |
+**Subnet lab:** a full worked solution, with the IP and mask lined up in binary
+![Subnet lab](docs/lab.png)
+
+**Exam simulation:** Scantron-style answer sheet, flag-for-review and a countdown clock
+![Exam](docs/exam.png)
 
 ## How the subnet solver walks through a problem
 ```mermaid
